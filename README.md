@@ -6,4 +6,4 @@ Here, input files include gridded climate data
 - Based on mass balance
 - Functions include regression
 - Piecewise linear regression
-## Kinematic river routing
+## 3. Kinematic river routing
