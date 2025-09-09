@@ -8,4 +8,8 @@ Here, input files include gridded climate data
 - Piecewise linear regression
 ## 3. Kinematic river routing
 
+If this code contributes to your modeling work, please cite it as:
+https://doi.org/10.5281/zenodo.17086047
+
 This repository is currently being updated
+
