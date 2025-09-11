@@ -9,7 +9,8 @@ Here, input files include gridded climate data
 ## 3. Kinematic river routing
 
 If this code contributes to your modeling work, please cite it as:
-https://doi.org/10.5281/zenodo.17086047
+Nakigudde, C. K. (2025). Distributed hydrological modelling and reservoir routing in Python. Zenodo.
+https://doi.org/10.5281/zenodo.17086187
 
 This repository is currently being updated
 
