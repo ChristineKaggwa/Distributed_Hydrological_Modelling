@@ -24,6 +24,11 @@ Lateral routine:
 - Piecewise linear regression
 ## 3. Kinematic river routing
 
+
+# River Network Analysis of Regulation Effects
+- Dymanic degree of regulation
+- Dynamic degree of flow lateratio
+
 If this code contributes to your modeling work, please cite it as:
 Nakigudde, C. K. (2025). Distributed hydrological modelling and reservoir routing in Python. Zenodo.
 https://doi.org/10.5281/zenodo.17086187
